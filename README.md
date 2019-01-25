@@ -1,2 +1,0 @@
-# email-newsletter
-Email Newsletter
